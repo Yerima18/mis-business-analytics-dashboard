@@ -40,15 +40,7 @@ The focus is on **business logic, reporting structure, and usability**, not only
 
 ---
 
-## 🌍 Context
 
-Built by **Lafia Adam Bagri**, an **international MIS student in Turkey**, to showcase the ability to bridge:
-
-> **Business requirements × Information systems × Modern web technologies**
-
-This project is intended for **internship and junior-level roles** in MIS, IT, business analytics, and frontend development.
-
----
 
 ## 🚀 Live Demo
 
